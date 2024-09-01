@@ -7,3 +7,4 @@ April 22nd 2024 :- I have completed a random password generator
 August 31 2024  :- I have completed a Age Calculator website
 September 1 2024  :- I have completed a Quote website
 September 1 2024  :- I have completed a Qr code generator
+September 1 2024  :- I have completed a Toast notification
