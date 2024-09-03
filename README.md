@@ -11,4 +11,6 @@ September 1 2024  :- I have completed a Toast notification
 September 1 2024  :- I have completed a Music Player
 September 2 2024  :- I have completed a calculator with javascript
 September 3 2024  :- I have completed a Stopwatch with javascript
+September 3 2024  :- I have completed a popup with javascript
+
 
