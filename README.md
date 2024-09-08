@@ -13,5 +13,8 @@ September 2 2024  :- I have completed a calculator with javascript
 September 3 2024  :- I have completed a Stopwatch with javascript
 September 3 2024  :- I have completed a popup with javascript
 September 4 2024  :- I have completed a Dark Mode website
+September 5 2024  :- I have completed a Form Validation
+September 5 2024  :- I have completed a gallery in Javascript
+September 8 2024  :- I have completed a email subscription
 
 
