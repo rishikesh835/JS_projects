@@ -17,3 +17,4 @@ September 5 2024  :- I have completed a Form Validation
 September 5 2024  :- I have completed a gallery in Javascript
 September 8 2024  :- I have completed a email subscription
 September 8 2024  :- I have completed a password strength
+September 9 2024  :- I have completed a text to Speech
