@@ -19,3 +19,4 @@ September 8 2024  :- I have completed a email subscription
 September 8 2024  :- I have completed a password strength
 September 9 2024  :- I have completed a text to Speech
 September 9 2024  :- I have completed a Coming soon page 
+September 10 2024  :- I have completed a background change image effects
